@@ -1864,3 +1864,5 @@ ycap  symbol blue-square twitter
 🫧 bubbles soap fun carbonation sparkling
 🪪 identification card document
 🟰 heavy equals sign math
+
+# day la chinh sua tu torokiko
