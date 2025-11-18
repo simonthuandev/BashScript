@@ -22,3 +22,5 @@ while true; do
         echo "$calc_result" | wl-copy
     fi
 done
+
+# day la chinh sua tu torokiko
