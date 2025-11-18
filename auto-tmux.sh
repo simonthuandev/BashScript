@@ -11,3 +11,4 @@ if command -v tmux &> /dev/null; then
     exit 
   fi
 fi
+# day la thay doi trong torokiko
